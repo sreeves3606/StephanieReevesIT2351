@@ -1,7 +1,7 @@
 IT 2351
 Stephanie Reeves
 
-Assignment 9#
+Assignment 9
 
 Create a stored procedure that sums the freight for an undetermined Customer ID (use a parameter) and name the procedure
 "customerFreightByID". Create another procedure called "test" where you call your customerFreightByID procedure three times for three
